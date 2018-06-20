@@ -1,0 +1,26 @@
+# first regex
+
+access_token = 042azeaAZEdcqv56vrbg3z646a3ea
+client_token = 042azeaAZEdcqv56vrbg3z646a3ea
+api_token = 042azeaAZEdcqv56vrbg3z646a3ea
+secret_token = 042azeaAZEdcqv56vrbg3z646a3ea
+token_client = 042azeaAZEdcqv56vrbg3z646a3ea
+client_secret = 042azeaAZEdcqv56vrbg3z646a3ea
+token_api = 042azeaAZEdcqv56vrbg3z646a3ea
+access_token = 042azeaAZEdcqv56vrbg3z646a3ea
+
+# second regex
+
+privatekey||private__ __key
+
+# third regex
+
+AKIAAMP4Q5201AFQ16C1
+
+# 4th regex
+
+ReDdIt_token = '12a0za32ze1ZEB'
+
+# 5th regex
+
+hErOkU = '25ABCD64-0A1F-2D3C-2D3C-2D3C2D3C2D3C'
